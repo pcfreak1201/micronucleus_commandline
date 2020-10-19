@@ -8,3 +8,7 @@ These are my files, after I tried to recompile the Linux- and Windows-Commandlin
 
 Details in German on https://www.mikrocontroller.net/topic/318272 (copy libusb-win32-bin-1.2.6.0.zip\libusb-win32-bin-1.2.6.0\lib\gcc\libusb.a to lib in MinGW-path, 
 rename libusb-win32-bin-1.2.6.0.zip\libusb-win32-bin-1.2.6.0\include\lusb0_usb.h to usb.h and copy to library-folder [already done in repo])
+
+# No Binaries
+This repo was only for demonstration purposes.
+If you need / want to work with the ("new generation") binaries, have a look at https://github.com/sanbeg/MicronucleusArduino
